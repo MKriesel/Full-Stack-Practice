@@ -1,3 +1,7 @@
+# Svelete Full Stack Development Practice of Todo App
+followed https://www.youtube.com/watch?v=OUzaUJ3gEug&list=WL&index=21&t=13857s
+for full CRUD development in svelte, prism, porstesql
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
